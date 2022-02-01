@@ -68,7 +68,6 @@
       }
     ]
   },
-  {
   "小电视":{
     "type":"image",
     "container":[
@@ -273,8 +272,7 @@
         "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibilitv/9.png'>"
       }
     ]
-  }
-},
+  },
 "颜文字": {
     "type": "emoticon",
     "container": [
